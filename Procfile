@@ -1,0 +1,1 @@
+web: build/install/com.arifahmadalfian.borutoserver/bin/com.arifahmadalfian.borutoserver
